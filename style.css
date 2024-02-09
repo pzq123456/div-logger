@@ -1,0 +1,35 @@
+#console-output{
+    width: 100%;
+    height: 90vh;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    color: #fff;
+    background: #000000;
+    /* 滚动条 */
+    overflow: auto;
+}
+#content{
+    width: 100%;
+    height: 800px;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+#drag{
+    width: 100%;
+    height: 10px;
+    background: #ed0000;
+    cursor: ns-resize;
+    position: relative;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #020202;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+}

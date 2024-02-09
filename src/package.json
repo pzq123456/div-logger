@@ -1,0 +1,13 @@
+{
+  "name": "div-logger",
+  "version": "0.0.1",
+  "description": "A logger utility for dividing logs",
+  "main": "logger.js",
+  "keywords": [
+    "logger",
+    "utility",
+    "division"
+  ],
+  "author": "PZQ",
+  "license": "MIT"
+}
